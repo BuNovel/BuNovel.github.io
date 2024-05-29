@@ -62,6 +62,9 @@
         left: -3px;
     }
 
+    .opu {
+        margin-left: 200px;
+    }
 }
 
 .product-list .slick-dots li.slick-active button {
