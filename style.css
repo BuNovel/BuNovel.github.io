@@ -63,8 +63,8 @@
     }
 
     .poop {
-        margin-left: 24%;
-        margin-right: 0;
+        left: 24%;
+        right: auto;
     }
 }
 
