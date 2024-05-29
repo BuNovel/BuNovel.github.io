@@ -61,10 +61,6 @@
     .slick-dots {
         left: -3px;
     }
-
-    .opu {
-        margin-left: 200px;
-    }
 }
 
 .product-list .slick-dots li.slick-active button {
@@ -267,3 +263,16 @@
     font-size: 24px;
     font-weight: bold;
   }
+
+@media (max-width: 768px) {
+    .navbar-brand {
+        margin-left: 0;
+    }
+    .nav-item {
+        text-align: center;
+        width: 100%;
+    }
+    .navbar-collapse {
+        text-align: center;
+    }
+}
